@@ -7,7 +7,6 @@ import sys
 from datetime import datetime
 import scapy.all
 import scapy.utils
-import pyshark
 
 startTime = datetime.now()
 currentDirectory = '/Users/mafranks/Desktop/National Guard/WOAC/Python/Playground'
